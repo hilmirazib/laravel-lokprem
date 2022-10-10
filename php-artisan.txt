@@ -6,3 +6,6 @@
 
 6. php artisan make:model Models\\ProductGallery
 7. php artisan storage:link
+8. php artisan make:model Models\\Transaction
+9. php artisan make:model Models\\TransactionDetail
+10. php artisan make:controller TransactionController --r
