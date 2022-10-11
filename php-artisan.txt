@@ -9,3 +9,10 @@
 8. php artisan make:model Models\\Transaction
 9. php artisan make:model Models\\TransactionDetail
 10. php artisan make:controller TransactionController --r
+
+11. php artisan make:controller API\\ProductController
+12. php artisan make:controller API\\CheckoutController
+13.php artisan make:request API\\CheckoutRequest
+14. php artisan make:controller API\\TransactionController
+
+16. composer require spatie/laravel-cors
